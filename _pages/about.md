@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 * I am currently a Ph.D. student in the [Computer Science Department](https://cs.unc.edu) at University of North Carolina at Chapel Hill,
- advised by Prof. [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/). I am fortunate to work closely with Prof. [Colin Raffle](https://colinraffel.com/) recently.
+ advised by Prof. [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/). I am also fortunate to work closely with Prof. [Colin Raffle](https://colinraffel.com/) recently.
 * My research interests lie in applying machine learning, particularly deep learning, to understanding images. 
 I am facinated with exploring how to learn visual representations that generalizable to new domains/tasks with less labeled data. 
 I also work on medical image registration and segmentation.  

@@ -13,7 +13,7 @@ redirect_from:
  advised by Prof. [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/). I am also fortunate to work closely with Prof. [Colin Raffle](https://colinraffel.com/) recently.
 * My research interests lie in applying machine learning, particularly deep learning, to understanding images. 
 I am facinated with exploring how to learn visual representations that generalizable to new domains/tasks with less labeled data. 
-I also work on medical image registration and segmentation.  
+I also work on applications on medical images, e.g. image registration and segmentation.  
 * I received my Master's Degree on [Imaging Science](https://www.cis.rit.edu/) from Rochester Institute of Technology 
 where I worked with Prof. [Nathan Cahill](https://people.rit.edu/ndcsma/) on remote sensing image analysis and image registration.
  I received my Bachelor’s Degree from the Physics Department at Xi'an Jiaotong University, where I did research at Quantum Optics Lab with Prof. [Pei Zhang](https://www.researchgate.net/profile/Pei_Zhang5).

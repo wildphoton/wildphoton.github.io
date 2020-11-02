@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenlin Xu 徐震林"
+title                    : "Zhenlin Xu"
 title_separator          : "-"
-name                     : &name "Zhenlin Xu"
+name                     : &name "Zhenlin Xu 徐震林"
 description              : &description "personal webpage"
 url                      : https://wildphoton.github.io #http://127.0.0.1:5000/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

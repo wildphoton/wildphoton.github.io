@@ -23,13 +23,13 @@ where I worked with Prof. [Nathan Cahill](https://people.rit.edu/ndcsma/) on rem
 [Robust and Generalizable Visual Representation Learning via Random Convolutions](https://arxiv.org/abs/2007.13003) \
 **Zhenlin Xu**, Deyi Liu, Junlin Yang, Colin Raffel, and Marc Niethammer. *arxiv preprint*
 
-[Adversarial Data Augmentation via Deformation Statistics](https://arxiv.org/pdf/2007.02447.pdf) \
+[Anatomical Data Augmentation via Fluid-based Image Registration](https://arxiv.org/pdf/2007.02447.pdf) \
 Zhengyang Shen, **Zhenlin Xu**, Sahin Olut, Marc Niethammer. *MICCAI 2020*
 
 [A Deep Network for Joint Registration and Reconstruction of Images with Pathologies](https://arxiv.org/pdf/2008.07628)\
 Xu Han, Zhengyang Shen, **Zhenlin Xu**, Spyridon Bakas, Hamed Akbari, Michel Bilello, Christos Davatzikos, Marc Niethammer. *MLMI workshop on MICCAI 2020*
 
-[Anatomical Data Augmentation via Fluid-based Image Registration](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740630.pdf) \
+[Adversarial Data Augmentation via Deformation Statistics](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740630.pdf) \
 Sahin Olut, Zhengyang Shen, **Zhenlin Xu**, Samuel Gerber, Marc Niethammer. *ECCV 2020*
 
 [DeepAtlas: Joint Semi-Supervised Learning of Image Registration and Segmentation](https://arxiv.org/abs/1904.08465) \
@@ -42,7 +42,7 @@ Zhengyang Shen, Xu Han, **Zhenlin Xu**, Marc Niethammer. *CVPR 2019*
 **Zhenlin Xu**, Zhengyang Shen, Marc Niethammer. *DLMIA workshop on MICCAI 2018*
 
 # Academic Services
-* Conference Reviewer: MICCAI 2019
+* Conference Reviewer: MICCAI 2019, AAAI2021
 * Journal Reviewer: MEDICAL IMAGE ANALYSIS (MEDIA)
 
 

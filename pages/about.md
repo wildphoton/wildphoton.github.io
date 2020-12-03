@@ -12,7 +12,7 @@ redirect_from:
 * I am currently a Ph.D. student in the [Computer Science Department](https://cs.unc.edu) at University of North Carolina at Chapel Hill,
  advised by Prof. [Marc Niethammer](https://biag.cs.unc.edu/author/marc-niethammer/). I am also fortunate to work closely with Prof. [Colin Raffle](https://colinraffel.com/) recently.
 * My research interests lie in applying machine learning, particularly deep learning, to understanding visual data. 
-I am facinated with exploring how to learn visual representations that generalizable to new domains/tasks with less labeled data. 
+I am fascinated with exploring how to learn visual representations that generalizable to new domains/tasks with less labeled data. 
 I also work on applications on medical images, e.g. image registration and segmentation.  
 * I received my Master's Degree on [Imaging Science](https://www.cis.rit.edu/) from Rochester Institute of Technology 
 where I worked with Prof. [Nathan Cahill](https://people.rit.edu/ndcsma/) on remote sensing image analysis and image registration.
@@ -42,7 +42,7 @@ Zhengyang Shen, Xu Han, **Zhenlin Xu**, Marc Niethammer. *CVPR 2019*
 **Zhenlin Xu**, Zhengyang Shen, Marc Niethammer. *DLMIA workshop on MICCAI 2018*
 
 # Academic Services
-* Conference Reviewer: MICCAI 2019, AAAI2021
+* Conference Reviewer: MICCAI 2019, AAAI 2021
 * Journal Reviewer: MEDICAL IMAGE ANALYSIS (MEDIA)
 
 

@@ -21,7 +21,7 @@ where I worked with Prof. [Nathan Cahill](https://people.rit.edu/ndcsma/) on rem
 
 # Recent Publications
 [Robust and Generalizable Visual Representation Learning via Random Convolutions](https://arxiv.org/abs/2007.13003) \
-**Zhenlin Xu**, Deyi Liu, Junlin Yang, Colin Raffel, and Marc Niethammer. *arxiv preprint*
+**Zhenlin Xu**, Deyi Liu, Junlin Yang, Colin Raffel, and Marc Niethammer. *ICLR 2021*
 
 [Anatomical Data Augmentation via Fluid-based Image Registration](https://arxiv.org/pdf/2007.02447.pdf) \
 Zhengyang Shen, **Zhenlin Xu**, Sahin Olut, Marc Niethammer. *MICCAI 2020*
